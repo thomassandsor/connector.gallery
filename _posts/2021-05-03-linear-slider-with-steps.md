@@ -4,7 +4,7 @@ metadate: hide
 categories:
   - slider
   - New Category
-image: /assets/images/linear-slider-with-steps.png
+image: /assets/images/pps-number-validator.png
 visit: 
 download: 'https://github.com/MscrmTools/PCF-Controls'
 model_support: true

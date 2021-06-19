@@ -2,7 +2,7 @@
 title: "About"
 permalink: "/about"
 ---
-Dataverse Gallery is a collection of apps created for Dataverse and Dataverse for Teams.
+Connectors Gallery is a collection of apps created for Dataverse and Dataverse for Teams.
 
 The aim of this site is to list the apps created by the Power Platform community (only controls that can be downloaded are listed).
 
