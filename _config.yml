@@ -1,0 +1,45 @@
+# Site
+name: 'DV4T Gallery'
+description: 'DV4T Gallery is a collection of Power Apps for Microsoft Teams'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: '/dv4t.gallery'
+disqus: 'dv4tgallery'
+email: ''
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Pagination
+paginate: 5
+paginate_path: "/page/:num/"
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
