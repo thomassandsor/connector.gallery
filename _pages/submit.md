@@ -1,5 +1,5 @@
 ---
-title: "Submit a new PCF Control"
+title: "Submit a new Connector"
 permalink: "/submit"
 ---
 If you created a Connector and you would like to add it to Connector Gallery, please fill the following form:
