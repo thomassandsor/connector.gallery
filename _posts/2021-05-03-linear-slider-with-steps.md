@@ -2,8 +2,8 @@
 title: Linear slider with steps
 metadate: hide
 categories:
-  - slider
-  - New Category
+  - Norway
+  - OpenAPI
 image: /assets/images/pps-number-validator.png
 visit: 
 download: 'https://github.com/MscrmTools/PCF-Controls'
