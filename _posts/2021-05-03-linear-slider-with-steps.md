@@ -12,5 +12,6 @@ open_api: true
 3rdparty_api: true
 authors:
   - tanguy_touzard
+  - crmvet
 ---
 A control to display a slider, it allows to set minimum, maximum, step, color and customize label. This is an adaptation of the sample from Microsoft.
