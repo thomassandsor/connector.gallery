@@ -7,10 +7,9 @@ categories:
 image: /assets/images/pps-number-validator.png
 visit: 
 download: 'https://github.com/MscrmTools/PCF-Controls'
-model_support: true
-canvas_support: false
-license_defined: false
-managed_solution: false
+license_defined: true
+open_api: true
+3rdparty_api: true
 authors:
   - tanguy_touzard
 ---

@@ -36,21 +36,21 @@
         
             <div class="notraco">
                 <h2 class="card-title title">{{ post.title }}
-				{% if post.model_support == true %}
-				&nbsp;<i class="fa fa-folder-open-o text-muted" aria-hidden="true" title="made for Model-driven Apps"></i>
+				{% if post.open_api == true %}
+				&nbsp;<i class="fa fa-folder-open-o text-muted" aria-hidden="true" title="Open API free of charge"></i>
 				{% endif %}
-				{% if post.canvas_support == true %}
-				&nbsp;<i class="fa fa-paint-brush text-muted" aria-hidden="true" title="made for Canvas Apps"></i>		
+				{% if post.3rdparty_api == true %}
+				&nbsp;<i class="fa fa-diamond text-muted" aria-hidden="true" title="Requires paid service"></i>		
 				{% endif %}
-				{% if post.portals_support == true %}
-				&nbsp;<i class="fa fa-globe text-muted" aria-hidden="true" title="made for Power Apps Portals"></i>		
-				{% endif %}			
 				{% if post.license_defined == true %}
+				&nbsp;<i class="fa fa-balance-scale text-muted" aria-hidden="true" title="License is present"></i>		
+				{% endif %}			
+				<!--{% if post.license_defined == true %}
 				&nbsp;<i class="fa fa-balance-scale text-muted" aria-hidden="true" title="License is present"></i>		
 				{% endif %}
 				{% if post.managed_solution == true %}
 				&nbsp;<i class="fa fa-file-archive-o text-muted" aria-hidden="true" title="Managed Solution available"></i>		
-				{% endif %}
+				{% endif %}-->
 				</h2>
                 <!-- <div class="more">   -->
 					<!-- <i class="fa fa-arrow-circle-right text-muted" aria-hidden="true"></i> -->
