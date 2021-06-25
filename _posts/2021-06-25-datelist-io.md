@@ -6,7 +6,7 @@ categories:
 image: /assets/images/DatelistIO.png
 visit: 'https://datelist.io'
 demo_gif:
-download: 'https://github.com/microsoft/PowerPlatformConnectors/tree/dev/custom-connectors/Datelist'
+download: 'https://github.com/Datelist/datelist-msflow-connector'
 license_defined: true
 open_api: false
 3rdparty_api: true
