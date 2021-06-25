@@ -12,5 +12,6 @@ open_api: false
 3rdparty_api: true
 authors:
   - alexis_clarembeau
+  - datelist_io
 ---
 Save time and money. Take your bookings online now. Opt for Datelist, a simple to install, affordable, practical and ergonomic solution.
