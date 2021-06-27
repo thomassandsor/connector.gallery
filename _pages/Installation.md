@@ -49,5 +49,6 @@ if you see a 💎 in the connector.gallery the API will require a key / username
 
 ![FlowConnector2](assets\images\howto\FlowConnector2.png)
 
-Once you find the key, you can connect.
+Once you have the, you can connect and create!
 
+![FlowConnector3](assets\images\howto\FlowConnector3.png)
