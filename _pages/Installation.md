@@ -13,6 +13,9 @@ In this example there are 2 files. The configuration and the LOGO. Let's start b
 <p align="center">
   <img src="https://github.com/thomassandsor/CustomerService/blob/master/IMAGES/thomas_min.jpg">
 </p>
+
+![GitHubFiles](assets\images\howto\GitHubFiles.png)
+
 Image GitHubFiles
 
 Then click on
@@ -39,7 +42,7 @@ PPCustomConnector5
 # Usage
 You can now use the connector in Power Automate. Open up a new Power Automate, and select your custom connector. 
 
-PS if you see a 💎 in the connector.gallery the API will require a key / username for usage. In the case of What3Words a site like this can be found here. 
+<b>PS!</b> if you see a 💎 in the connector.gallery the API will require a key / username for usage. In the case of What3Words a site like this can be found here. 
 
 <a target="_blank" href="https://what3words.com/select-plan?referrer=/public-api&currency=USD">What3Words API signup</a>
 
