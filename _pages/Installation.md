@@ -10,21 +10,15 @@ In this example there are 2 files. The configuration and the LOGO. Let's start b
 
 # Downloading
 
-<p align="center">
-  <img src="https://github.com/thomassandsor/CustomerService/blob/master/IMAGES/thomas_min.jpg">
-</p>
-
 ![GitHubFiles](assets\images\howto\GitHubFiles.png)
-
-Image GitHubFiles
 
 Then click on
 
-GitHubFileRaw
+![GitHubFileRaw](assets\images\howto\GitHubFileRaw.png)
 
 Lastrly open right click on the file to download the .json file. 
 
-GitHubRightClick
+![GitHubRightClick](assets\images\howto\GitHubRightClick.png)
 
 Repeat the process for the image file. 
 
@@ -32,12 +26,13 @@ Repeat the process for the image file.
 
 Now make your way to <a target="_blank" href="https://make.powerapps.com/">Power Apps Maker Portal</a>
 
-Open
-PPCustomConnector1
-PPCustomConnector2
-PPCustomConnector3
-PPCustomConnector4
-PPCustomConnector5
+Open the custom connector section
+
+![PPCustomConnector1](assets\images\howto\PPCustomConnector1.png)
+![PPCustomConnector2](assets\images\howto\PPCustomConnector2.png)
+![PPCustomConnector3](assets\images\howto\PPCustomConnector3.png)
+![PPCustomConnector4](assets\images\howto\PPCustomConnector4.png)
+![PPCustomConnector5](assets\images\howto\PPCustomConnector5.png)
 
 # Usage
 You can now use the connector in Power Automate. Open up a new Power Automate, and select your custom connector. 
