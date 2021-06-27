@@ -10,6 +10,9 @@ In this example there are 2 files. The configuration and the LOGO. Let's start b
 
 # Downloading
 
+<p align="center">
+  <img src="https://github.com/thomassandsor/CustomerService/blob/master/IMAGES/thomas_min.jpg">
+</p>
 Image GitHubFiles
 
 Then click on
