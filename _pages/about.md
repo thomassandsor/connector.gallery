@@ -8,7 +8,7 @@ The aim of this site is to list connectors for the Power Platform created by Pow
 
 If you have an idea for a new connector, go to our <a target="_blank" href="https://powerplatform.sleekplan.app/">forum</a>, write your suggestion and maybe a developer/consultant will help you out.
 
-If you created an APP and you would like to be listed inside this site, check the <a target="_blank" href="/submit">Submit a new PCF Control</a> page.
+If you created an APP and you would like to be listed inside this site, check the <a target="_blank" href="/submit">Submit a new Connector</a> page.
 
 Please contact <a target="_blank" href="https://www.twitter.com/crmkeeper">@CRMKeeper</a> with a direct message if:
 
