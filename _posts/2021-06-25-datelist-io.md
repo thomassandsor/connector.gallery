@@ -3,6 +3,8 @@ title: Datelist.io
 metadate: hide
 categories:
   - 3rd Party
+  - Connector
+  - Trial Available
 image: /assets/images/DatelistIO.png
 visit: 'https://datelist.io'
 demo_gif:
