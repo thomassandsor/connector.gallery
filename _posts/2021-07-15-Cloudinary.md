@@ -4,7 +4,6 @@ metadate: hide
 categories:
   - 3rd Party
   - Trial Available
-  - Free
 image: /assets/images/Cloudinary.png
 visit: 'https://github.com/maksii/PowerAutomateCustomConnectors/tree/main/Cloudinary'
 demo_gif: /assets/images/CloudinaryDemo.png
@@ -17,4 +16,4 @@ authors:
   - logiqapps
 
 ---
-Connector that give you the option to choose when you wan to see the Flow Run History.
+Manage images in the cloud, edit and transform on the fly, and optimize performance on any screen using Cloudinary’s API Custom Connector. Basic connector to upload image with preset transformation into the Cloudinary.
