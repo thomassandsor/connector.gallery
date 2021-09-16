@@ -5,7 +5,7 @@ categories:
   - 3rd Party
   - Trial Available
 image: /assets/images/RandomGIF.png
-visit: '*blogpost*'
+visit: 'https://crmkeeper.com/2021/09/16/dynamics-365-sales-adaptive-card%f0%9f%9a%80/'
 demo_gif: /assets/images/RandomGIFDemo.png
 download: 'https://github.com/thomassandsor/ConnectorRandomGIF'
 license_defined: true
