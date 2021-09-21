@@ -8,7 +8,7 @@ visit: 'https://www.itaintboring.com/dynamics-crm/c-code-in-power-automate-lets-
 demo_gif: /assets/images/String.png
 download: 'https://github.com/ashlega/ITAintBoringITAFunctions/tree/main/ConnectorFiles'
 license_defined: true
-open_api: false
+open_api: true
 3rdparty_api: false
 authors:
   - alex_shlega
