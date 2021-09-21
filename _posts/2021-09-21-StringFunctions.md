@@ -9,7 +9,7 @@ demo_gif: /assets/images/String.png
 download: 'https://github.com/ashlega/ITAintBoringITAFunctions/tree/main/ConnectorFiles'
 license_defined: true
 open_api: false
-3rdparty_api: true
+3rdparty_api: false
 authors:
   - alex_shlega
 ---
