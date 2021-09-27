@@ -8,8 +8,8 @@ visit: 'https://parthbhaidani.com/2021/09/19/power-automate-flow-supports-c-shar
 demo_gif: /assets/images/Math.png
 download: 'https://github.com/parth-bhaidani91/Math-Custom-Connector'
 license_defined: true
-open_api: false
-3rdparty_api: true
+open_api: true
+3rdparty_api: false
 authors:
   - parth_bhaidani
 ---
