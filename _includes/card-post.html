@@ -44,6 +44,9 @@
 				{% endif %}
 				{% if post.license_defined == true %}
 				&nbsp;<i class="fa fa-balance-scale text-muted" aria-hidden="true" title="License is present"></i>		
+				{% endif %}	
+				{% if post.independent_published == true %}
+				&nbsp;<a href="{{post.independent_publisher_link}}">Independent Publisher</a>		
 				{% endif %}			
 				<!--{% if post.license_defined == true %}
 				&nbsp;<i class="fa fa-balance-scale text-muted" aria-hidden="true" title="License is present"></i>		
