@@ -13,9 +13,6 @@ layout: default
 						{% if page.image %} 
 							<img class="card-img-top mb-2" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}"> 
 						{% endif %}
-						<h5>
-							{{page.title}}
-						</h5>
 						{% if page.open_api == true %}
 						<br/>
 						<span style="color: #742775; padding: 5px;">
