@@ -5,7 +5,7 @@ categories:
   - 3rd Party
   - Trial Available
 image: /assets/images/WorldTime.png
-visit: 'https://worldtimeapi.org/'
+visit: 'https://fordosa90.medium.com/custom-connector-step-by-step-guide-for-worldtime-api-53363666d820'
 demo_gif: /assets/images/WorldTimeDemo.png
 download: 'https://github.com/fordosa90/power-platform-connectors/tree/main/WorldTime'
 license_defined: true
