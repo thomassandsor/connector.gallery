@@ -20,5 +20,3 @@ Please contact <a target="_blank" href="https://www.twitter.com/crmkeeper">@CRMK
 - you are the author of a Connector and want to remove it from this site
 
 A BIG THANK YOU to Guido Preite for allowing us to run this site.
-
-<iframe frameBorder="0" id=6bc10f43-fd0d-464d-befd-118c78c2f484></iframe><script>var sandboxSrc = "https://e715b07924f74693b0d37d9b3111a807.svc.dynamics.com/t/formsandbox/zLrb1L66IlbSQMBKVucoRqBhIR5umie7xzJFMhEItzY/fe67e534-b966-eb11-a812-0022487f32e9?ad=" + encodeURIComponent(document.location.toString()); document.getElementById('6bc10f43-fd0d-464d-befd-118c78c2f484').setAttribute('src', sandboxSrc); </script>
